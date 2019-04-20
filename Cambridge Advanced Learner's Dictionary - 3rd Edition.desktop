@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Cambridge Advanced Learner's Dictionary - 3rd Edition
+Exec=env WINEPREFIX="/home/rgukt/.wine" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/rgukt/.wine/dosdevices/c:/users/rgukt/Start\\ Menu/Programs/Cambridge/Cambridge\\ Advanced\\ Learner\\'s\\ Dictionary\\ -\\ 3rd\\ Edition/Cambridge\\ Advanced\\ Learner\\'s\\ Dictionary\\ -\\ 3rd\\ Edition.lnk
+Type=Application
+StartupNotify=true
+Path=/home/rgukt/.wine/dosdevices/c:/Program Files (x86)/Cambridge/CALD3
+Icon=D817_cald3.0
